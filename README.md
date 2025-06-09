@@ -55,15 +55,16 @@ Here’s a quick glance at the tools and technologies I use daily:
 
 Here’s a quick overview of my current skill levels in key technologies:
 
-- **HTML5**: ![HTML5](https://img.shields.io/badge/HTML5-90%25-green)
-- **CSS3**: ![CSS3](https://img.shields.io/badge/CSS3-85%25-green)
+- **HTML5**: ![HTML5](https://img.shields.io/badge/HTML5-90%25-brightgreen)
+- **CSS3**: ![CSS3](https://img.shields.io/badge/CSS3-85%25-brightgreen)
 - **Bootstrap**: ![Bootstrap](https://img.shields.io/badge/Bootstrap-80%25-green)
-- **JavaScript**: ![JavaScript](https://img.shields.io/badge/JavaScript-75%25-green)
-- **React**: ![React](https://img.shields.io/badge/React-70%25-green)
-- **Node.js**: ![Node.js](https://img.shields.io/badge/Node.js-65%25-green)
-- **MongoDB**: ![MongoDB](https://img.shields.io/badge/MongoDB-60%25-green)  
-- **SQL**: ![SQL](https://img.shields.io/badge/SQL-40%25-blue)
-- **Git&Github**: ![WordPress](https://img.shields.io/badge/Git&Github-80%25-green)
+- **JavaScript**: ![JavaScript](https://img.shields.io/badge/JavaScript-75%25-yellowgreen)
+- **React**: ![React](https://img.shields.io/badge/React-70%25-yellowgreen)
+- **Node.js**: ![Node.js](https://img.shields.io/badge/Node.js-65%25-yellow)
+- **MongoDB**: ![MongoDB](https://img.shields.io/badge/MongoDB-60%25-yellow)
+- **SQL**: ![SQL](https://img.shields.io/badge/SQL-40%25-orange)
+- **Git & GitHub**: ![GitHub](https://img.shields.io/badge/Git_&_GitHub-80%25-green)
+
 
 ### ⚡ Fun Fact
 

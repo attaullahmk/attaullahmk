@@ -33,6 +33,8 @@ Here’s a quick glance at the tools and technologies I use daily:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
@@ -42,8 +44,6 @@ Here’s a quick glance at the tools and technologies I use daily:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
   <img width="12" />
   <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" height="40" alt="SQL logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
   <img width="12" />
@@ -61,7 +61,8 @@ Here’s a quick overview of my current skill levels in key technologies:
 - **JavaScript**: ![JavaScript](https://img.shields.io/badge/JavaScript-75%25-green)
 - **React**: ![React](https://img.shields.io/badge/React-70%25-green)
 - **Node.js**: ![Node.js](https://img.shields.io/badge/Node.js-65%25-green)
-- **MongoDB**: ![MongoDB](https://img.shields.io/badge/MongoDB-60%25-green)
+- **MongoDB**: ![MongoDB](https://img.shields.io/badge/MongoDB-60%25-green)  
+- **SQL**: ![SQL](https://img.shields.io/badge/SQL-40%25-blue)
 - **Git&Github**: ![WordPress](https://img.shields.io/badge/Git&Github-80%25-green)
 
 ### ⚡ Fun Fact

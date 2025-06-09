@@ -20,7 +20,7 @@ I'm always up for a new challenge! Right now, I’m diving deeper into **React**
 
 ### 📫 How to Reach Me
 
-- 📧 Email: [attaullah@email.com](mailto:attaullahmk47@gmail.com)
+- 📧 Email: [attaullah@email.com](mailto:attaullahmk099@gmail.com)
 - 💼 LinkedIn: [Atta Ullah](https://www.linkedin.com/in/attaullahmk)
 
 
